@@ -13,12 +13,12 @@ def ReadData():
         return None,None
 
 def ForwardCalculation(w, b, x):
-    return w * x + b
+    return np.dot(w, x) + b
 
 def BackPropagation(x, y, z):
     dz = z - y
     db = dz
-    dw = dz * x
+    dw = np.dot(dz, x)
     return dw, db
 
 def UpdateWeights(w, b, dw, db, eta):
