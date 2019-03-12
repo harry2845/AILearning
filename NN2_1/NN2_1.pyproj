@@ -46,6 +46,9 @@
     <Compile Include="NN4_3.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="NN5_0.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="test.py">
       <SubType>Code</SubType>
     </Compile>
