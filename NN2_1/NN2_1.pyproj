@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="homework0305.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="NN2_3.py">
       <SubType>Code</SubType>
     </Compile>
