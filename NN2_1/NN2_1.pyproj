@@ -21,7 +21,16 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="BaseClassification.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="homework0305.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LogicAnd.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="logicOr.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="NN2_3.py">
@@ -50,6 +59,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="NN5_0.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="NN7_2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="NN7_2_homework.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="test.py">
