@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>155e83d0-dbe4-4dd2-bedc-df21bf0f5791</ProjectGuid>
+    <ProjectGuid>3db405c2-8594-4a22-a3fe-7d96a2c6a74d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>NN2_1.py</StartupFile>
+    <StartupFile>DataReader.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>NN2_1</Name>
-    <RootNamespace>NN2_1</RootNamespace>
+    <Name>NNModule</Name>
+    <RootNamespace>NNModule</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,56 +21,29 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="BaseClassification.py">
+    <Compile Include="Activators.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="homework0305.py">
+    <Compile Include="DataReader.py" />
+    <Compile Include="LossFunction.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="LogicAnd.py">
+    <Compile Include="NN8_2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="logicOr.py">
+    <Compile Include="NN9_1.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="NN2_3.py">
+    <Compile Include="Parameters.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="NN2_2.py">
+    <Compile Include="TwoLayerClassificationNet.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="NN2_1.py" />
-    <Compile Include="NN2_3_1.py">
+    <Compile Include="TwoLayerFittingNet.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="NN3_1.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="NN4_0.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="NN4_1.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="NN4_2.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="NN4_3.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="NN5_0.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="NN6_2.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="NN6_2_homework.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="NN6_5.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="test.py">
+    <Compile Include="WeightsBias.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

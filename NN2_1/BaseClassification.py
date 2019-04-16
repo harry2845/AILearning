@@ -106,7 +106,7 @@ def InitialWeights(num_input, num_output, method):
 def InitializeHyperParameters(method, num_example):
     if method=="SGD":
         eta = 0.1
-        max_epoch = 1000
+        max_epoch = 100
         batch_size = 1
     elif method=="MiniBatch":
         eta = 0.1
@@ -114,7 +114,7 @@ def InitializeHyperParameters(method, num_example):
         batch_size = 5
     elif method=="FullBatch":
         eta = 0.5
-        max_epoch = 5000
+        max_epoch = 100
         batch_size = num_example
     return eta, max_epoch, batch_size
 

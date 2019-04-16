@@ -46,8 +46,8 @@ def CheckLoss(W, B, X, Y):
     A = ForwardCalculationBatch(W,B,X)
     
     p1 = 1 - Y
-    p2 = np.log(1-A)
-    p3 = np.log(1+A)
+    p2 = np.log((1 - A) / 2)
+    p3 = np.log((1 + A) / 2)
 
     p4 = np.multiply(p1 ,p2)
     p5 = np.multiply((1+Y), p3)
@@ -61,10 +61,32 @@ def Inference(W,B,X_norm,xt):
     A = ForwardCalculationBatch(W,B,xt_normalized)
     return A, xt_normalized
 
+def ShowResult(X,Y,W,B,xt):
+    for i in range(X.shape[1]):
+        if Y[0,i] == 0:
+            plt.plot(X[0,i], X[1,i], '.', c='r')
+        elif Y[0,i] == 1:
+            plt.plot(X[0,i], X[1,i], 'x', c='g')
+        # end if
+    # end for
+
+    b12 = -B[0,0]/W[0,1]
+    w12 = -W[0,0]/W[0,1]
+
+    x = np.linspace(0,1,10)
+    y = w12 * x + b12
+    plt.plot(x,y)
+
+    for i in range(xt.shape[1]):
+        plt.plot(xt[0,i], xt[1,i], '^', c='b')
+
+    plt.axis([-0.1,1.1,-0.1,1.1])
+    plt.show()
+
 # 主程序
 if __name__ == '__main__':
     # SGD, MiniBatch, FullBatch
-    method = "FullBatch"
+    method = "SGD"
     # read data
     XData,YData = ReadData(x_data_name, y_data_name)
     X, X_norm = NormalizeData(XData)
@@ -76,3 +98,4 @@ if __name__ == '__main__':
     result, xt_norm = Inference(W,B,X_norm,xt)
     print(result)
     print(np.around(result))
+    ShowResult(X, YData, W, B, xt_norm)
