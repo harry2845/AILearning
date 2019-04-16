@@ -1,0 +1,16 @@
+    learning_rate = 0.2
+    n_hidden1 = 64
+    n_hidden2 = 32
+    n_output = 10
+    dataReader = LoadData(n_output)
+    n_images = dataReader.num_example
+    n_input = dataReader.num_feature
+    m_epoch = 10
+    batch_size = 20
+
+result = 0.9765
+
+64 32
+0.9663
+128 64
+0.9578
