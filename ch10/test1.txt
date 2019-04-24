@@ -1,0 +1,251 @@
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 2, batch_size: 10
+rate=9276 / 10000 = 0.9276
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 2, batch_size: 20
+rate=9178 / 10000 = 0.9178
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 2, batch_size: 30
+rate=9129 / 10000 = 0.9129
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 2, batch_size: 40
+rate=9085 / 10000 = 0.9085
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 2, batch_size: 50
+rate=9025 / 10000 = 0.9025
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 2, batch_size: 60
+rate=8976 / 10000 = 0.8976
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 2, batch_size: 70
+rate=8981 / 10000 = 0.8981
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 2, batch_size: 80
+rate=8921 / 10000 = 0.8921
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 2, batch_size: 90
+rate=8908 / 10000 = 0.8908
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 4, batch_size: 10
+rate=9179 / 10000 = 0.9179
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 4, batch_size: 20
+rate=9279 / 10000 = 0.9279
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 4, batch_size: 30
+rate=9268 / 10000 = 0.9268
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 4, batch_size: 40
+rate=9233 / 10000 = 0.9233
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 4, batch_size: 50
+rate=9244 / 10000 = 0.9244
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 4, batch_size: 60
+rate=9201 / 10000 = 0.9201
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 4, batch_size: 70
+rate=9210 / 10000 = 0.921
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 4, batch_size: 80
+rate=9135 / 10000 = 0.9135
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 4, batch_size: 90
+rate=9168 / 10000 = 0.9168
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 6, batch_size: 10
+rate=9301 / 10000 = 0.9301
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 6, batch_size: 20
+rate=9421 / 10000 = 0.9421
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 6, batch_size: 30
+rate=9344 / 10000 = 0.9344
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 6, batch_size: 40
+rate=9292 / 10000 = 0.9292
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 6, batch_size: 50
+rate=9268 / 10000 = 0.9268
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 6, batch_size: 60
+rate=9248 / 10000 = 0.9248
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 6, batch_size: 70
+rate=9257 / 10000 = 0.9257
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 6, batch_size: 80
+rate=9227 / 10000 = 0.9227
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 6, batch_size: 90
+rate=9195 / 10000 = 0.9195
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 8, batch_size: 10
+rate=9345 / 10000 = 0.9345
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 8, batch_size: 20
+rate=9279 / 10000 = 0.9279
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 8, batch_size: 30
+rate=9310 / 10000 = 0.931
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 8, batch_size: 40
+rate=9396 / 10000 = 0.9396
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 8, batch_size: 50
+rate=9342 / 10000 = 0.9342
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 8, batch_size: 60
+rate=9290 / 10000 = 0.929
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 8, batch_size: 70
+rate=9364 / 10000 = 0.9364
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 8, batch_size: 80
+rate=9308 / 10000 = 0.9308
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 8, batch_size: 90
+rate=9334 / 10000 = 0.9334
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 10, batch_size: 10
+rate=9316 / 10000 = 0.9316
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 10, batch_size: 20
+rate=9283 / 10000 = 0.9283
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 10, batch_size: 30
+rate=9384 / 10000 = 0.9384
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 10, batch_size: 40
+rate=9366 / 10000 = 0.9366
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 10, batch_size: 50
+rate=9320 / 10000 = 0.932
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 10, batch_size: 60
+rate=9352 / 10000 = 0.9352
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 10, batch_size: 70
+rate=9248 / 10000 = 0.9248
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 10, batch_size: 80
+rate=9336 / 10000 = 0.9336
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 10, batch_size: 90
+rate=9266 / 10000 = 0.9266
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 12, batch_size: 10
+rate=9363 / 10000 = 0.9363
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 12, batch_size: 20
+rate=9271 / 10000 = 0.9271
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 12, batch_size: 30
+rate=9333 / 10000 = 0.9333
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 12, batch_size: 40
+rate=9382 / 10000 = 0.9382
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 12, batch_size: 50
+rate=9333 / 10000 = 0.9333
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 12, batch_size: 60
+rate=9409 / 10000 = 0.9409
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 12, batch_size: 70
+rate=9346 / 10000 = 0.9346
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 12, batch_size: 80
+rate=9349 / 10000 = 0.9349
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 12, batch_size: 90
+rate=9304 / 10000 = 0.9304
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 14, batch_size: 10
+rate=9343 / 10000 = 0.9343
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 14, batch_size: 20
+rate=9410 / 10000 = 0.941
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 14, batch_size: 30
+rate=9327 / 10000 = 0.9327
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 14, batch_size: 40
+rate=9374 / 10000 = 0.9374
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 14, batch_size: 50
+rate=9345 / 10000 = 0.9345
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 14, batch_size: 60
+rate=9391 / 10000 = 0.9391
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 14, batch_size: 70
+rate=9295 / 10000 = 0.9295
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 14, batch_size: 80
+rate=9342 / 10000 = 0.9342
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 14, batch_size: 90
+rate=9314 / 10000 = 0.9314
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 16, batch_size: 10
+rate=9344 / 10000 = 0.9344
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 16, batch_size: 20
+rate=9358 / 10000 = 0.9358
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 16, batch_size: 30
+rate=9345 / 10000 = 0.9345
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 16, batch_size: 40
+rate=9395 / 10000 = 0.9395
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 16, batch_size: 50
+rate=9333 / 10000 = 0.9333
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 16, batch_size: 60
+rate=9345 / 10000 = 0.9345
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 16, batch_size: 70
+rate=9380 / 10000 = 0.938
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 16, batch_size: 80
+rate=9353 / 10000 = 0.9353
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 16, batch_size: 90
+rate=9357 / 10000 = 0.9357
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 18, batch_size: 10
+rate=9413 / 10000 = 0.9413
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 18, batch_size: 20
+rate=9380 / 10000 = 0.938
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 18, batch_size: 30
+rate=9367 / 10000 = 0.9367
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 18, batch_size: 40
+rate=9438 / 10000 = 0.9438
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 18, batch_size: 50
+rate=9400 / 10000 = 0.94
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 18, batch_size: 60
+rate=9444 / 10000 = 0.9444
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 18, batch_size: 70
+rate=9422 / 10000 = 0.9422
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 18, batch_size: 80
+rate=9406 / 10000 = 0.9406
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 18, batch_size: 90
+rate=9378 / 10000 = 0.9378
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 20, batch_size: 10
+rate=9389 / 10000 = 0.9389
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 20, batch_size: 20
+rate=9382 / 10000 = 0.9382
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 20, batch_size: 30
+rate=9346 / 10000 = 0.9346
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 20, batch_size: 40
+rate=9383 / 10000 = 0.9383
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 20, batch_size: 50
+rate=9362 / 10000 = 0.9362
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 20, batch_size: 60
+rate=9396 / 10000 = 0.9396
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 20, batch_size: 70
+rate=9379 / 10000 = 0.9379
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 20, batch_size: 80
+rate=9388 / 10000 = 0.9388
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 20, batch_size: 90
+rate=9367 / 10000 = 0.9367
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 22, batch_size: 10
+rate=9338 / 10000 = 0.9338
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 22, batch_size: 20
+rate=9363 / 10000 = 0.9363
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 22, batch_size: 30
+rate=9397 / 10000 = 0.9397
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 22, batch_size: 40
+rate=9405 / 10000 = 0.9405
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 22, batch_size: 50
+rate=9359 / 10000 = 0.9359
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 22, batch_size: 60
+rate=9420 / 10000 = 0.942
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 22, batch_size: 70
+rate=9463 / 10000 = 0.9463
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 22, batch_size: 80
+rate=9379 / 10000 = 0.9379
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 22, batch_size: 90
+rate=9334 / 10000 = 0.9334
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 24, batch_size: 10
+rate=9418 / 10000 = 0.9418
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 24, batch_size: 20
+rate=9339 / 10000 = 0.9339
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 24, batch_size: 30
+rate=9381 / 10000 = 0.9381
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 24, batch_size: 40
+rate=9450 / 10000 = 0.945
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 24, batch_size: 50
+rate=9407 / 10000 = 0.9407
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 24, batch_size: 60
+rate=9433 / 10000 = 0.9433
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 24, batch_size: 70
+rate=9383 / 10000 = 0.9383
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 24, batch_size: 80
+rate=9386 / 10000 = 0.9386
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 24, batch_size: 90
+rate=9362 / 10000 = 0.9362
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 26, batch_size: 10
+rate=9363 / 10000 = 0.9363
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 26, batch_size: 20
+rate=9323 / 10000 = 0.9323
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 26, batch_size: 30
+rate=9435 / 10000 = 0.9435
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 26, batch_size: 40
+rate=9390 / 10000 = 0.939
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 26, batch_size: 50
+rate=9381 / 10000 = 0.9381
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 26, batch_size: 60
+rate=9398 / 10000 = 0.9398
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 26, batch_size: 70
+rate=9421 / 10000 = 0.9421
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 26, batch_size: 80
+rate=9406 / 10000 = 0.9406
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 26, batch_size: 90
+rate=9436 / 10000 = 0.9436
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 28, batch_size: 10
+rate=9316 / 10000 = 0.9316
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 28, batch_size: 20
+rate=9308 / 10000 = 0.9308
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 28, batch_size: 30
+rate=9455 / 10000 = 0.9455
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 28, batch_size: 40
+rate=9431 / 10000 = 0.9431
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 28, batch_size: 50
+rate=9463 / 10000 = 0.9463
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 28, batch_size: 60
+rate=9451 / 10000 = 0.9451
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 28, batch_size: 70
+rate=9427 / 10000 = 0.9427
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 28, batch_size: 80
+rate=9441 / 10000 = 0.9441
+learning rate: 0.1, n_hidden1: 10, n_hidden2: 10, m_epoch: 28, batch_size: 90

@@ -1,0 +1,21 @@
+learning rate: 0.3, n_hidden1: 10, n_hidden2: 10, m_epoch: 20, batch_size: 100
+rate=9376 / 10000 = 0.9376
+learning rate: 0.3, n_hidden1: 20, n_hidden2: 10, m_epoch: 20, batch_size: 100
+rate=9588 / 10000 = 0.9588
+learning rate: 0.3, n_hidden1: 30, n_hidden2: 10, m_epoch: 20, batch_size: 100
+rate=9671 / 10000 = 0.9671
+learning rate: 0.3, n_hidden1: 40, n_hidden2: 10, m_epoch: 20, batch_size: 100
+rate=9669 / 10000 = 0.9669
+learning rate: 0.3, n_hidden1: 50, n_hidden2: 10, m_epoch: 20, batch_size: 100
+rate=9750 / 10000 = 0.975
+learning rate: 0.3, n_hidden1: 60, n_hidden2: 10, m_epoch: 20, batch_size: 100
+rate=9734 / 10000 = 0.9734
+learning rate: 0.3, n_hidden1: 70, n_hidden2: 10, m_epoch: 20, batch_size: 100
+rate=9747 / 10000 = 0.9747
+learning rate: 0.3, n_hidden1: 80, n_hidden2: 10, m_epoch: 20, batch_size: 100
+rate=9733 / 10000 = 0.9733
+learning rate: 0.3, n_hidden1: 90, n_hidden2: 10, m_epoch: 20, batch_size: 100
+rate=9771 / 10000 = 0.9771
+learning rate: 0.3, n_hidden1: 20, n_hidden2: 20, m_epoch: 20, batch_size: 100
+rate=9617 / 10000 = 0.9617
+learning rate: 0.3, n_hidden1: 30, n_hidden2: 20, m_epoch: 20, batch_size: 100

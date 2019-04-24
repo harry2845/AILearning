@@ -122,17 +122,22 @@ def SaveResult(dict_param):
 if __name__ == '__main__':
 
     print("Loading...")
-    learning_rate = 0.2
-    n_hidden1 = 64
-    n_hidden2 = 32
+    learning_rate = 0.3
+    n_hidden1 = 180
+    n_hidden2 = 110
     n_output = 10
     dataReader = LoadData(n_output)
     n_images = dataReader.num_example
     n_input = dataReader.num_feature
-    m_epoch = 25
-    batch_size = 50
-    dict_Param = InitialParameters3(n_input, n_hidden1, n_hidden2, n_output, 2)
-    dict_Param = Train(dataReader, learning_rate, m_epoch, n_images, n_input, n_output, dict_Param, forward3, backward3, update3, batch_size)
-    SaveResult(dict_Param)
-    Test(dataReader, n_output, dict_Param, n_input, forward3)
+    m_epoch = 40
+    batch_size = 20
+    f = open('test.txt', 'w')
+    for i in range(1,11):
+        print(str.format("learning rate: {0}, n_hidden1: {1}, n_hidden2: {2}, m_epoch: {3}, batch_size: {4}", learning_rate, n_hidden1, n_hidden2, m_epoch, batch_size))
+        f.write(str.format("learning rate: {0}, n_hidden1: {1}, n_hidden2: {2}, m_epoch: {3}, batch_size: {4}\n", learning_rate, n_hidden1, n_hidden2, m_epoch, batch_size))
+        dict_Param = InitialParameters3(n_input, n_hidden1, n_hidden2, n_output, 2)
+        dict_Param = Train(dataReader, learning_rate, m_epoch, n_images, n_input, n_output, dict_Param, forward3, backward3, update3, batch_size)
+        correct, count, rate = Test(dataReader, n_output, dict_Param, n_input, forward3)
+        f.write(str.format("rate={0} / {1} = {2}\n", correct, count, rate))
+    f.close()
 

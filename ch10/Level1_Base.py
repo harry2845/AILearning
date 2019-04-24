@@ -31,7 +31,7 @@ def CalculateLoss(dict_Param, X, Y, count, forward):
     return Loss
 
 def Test(dataReader, num_output, dict_Param, num_input, forward):
-    print("Testing...")
+    #print("Testing...")
 
     X = dataReader.XTestSet
     Y = dataReader.YTestSet
@@ -46,11 +46,11 @@ def Test(dataReader, num_output, dict_Param, num_input, forward):
             correct += 1
 
     print(str.format("rate={0} / {1} = {2}", correct, count, correct/count))
-    return correct, num_images
+    return correct, count, correct/count
 
 def Train(dataReader, learning_rate, max_epoch, num_images, num_input, num_output, dict_param, forward, backward, update, batch_size):
     loss_history = list()
-    print("Training...")
+    #print("Training...")
     max_iteration = (int)(dataReader.num_example / batch_size)
     for epoch in range(max_epoch):
         for iteration in range(max_iteration):
@@ -60,13 +60,13 @@ def Train(dataReader, learning_rate, max_epoch, num_images, num_input, num_outpu
             dict_param = update(dict_param, dict_Grads, learning_rate)
             if iteration % 1000 == 0:
                 Loss = CalculateLoss(dict_param, dataReader.X, dataReader.Y, num_images, forward)
-                print(epoch, iteration, Loss)
+                # print(epoch, iteration, Loss)
                 loss_history = np.append(loss_history, Loss)
             # end if
         # end for
         dataReader.Shuffle()
 
-    ShowLoss(loss_history)
+    #ShowLoss(loss_history)
     return dict_param
 
 def LoadData(num_output):
