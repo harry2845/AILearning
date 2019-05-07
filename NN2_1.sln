@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NN2_1", "NN2_1\NN2_1.pyproj
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NNModule", "NNModule\NNModule.pyproj", "{3DB405C2-8594-4A22-A3FE-7D96A2C6A74D}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TensorFlow", "TensorFlow\TensorFlow.pyproj", "{70AFA05D-1ED2-4F80-AFD2-8C17ECA0E81E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{155E83D0-DBE4-4DD2-BEDC-DF21BF0F5791}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DB405C2-8594-4A22-A3FE-7D96A2C6A74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3DB405C2-8594-4A22-A3FE-7D96A2C6A74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AFA05D-1ED2-4F80-AFD2-8C17ECA0E81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AFA05D-1ED2-4F80-AFD2-8C17ECA0E81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
